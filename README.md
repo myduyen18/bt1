@@ -1,2 +1,2 @@
 
-bt1/BT1.html
+bt1
